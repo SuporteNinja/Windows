@@ -1,5 +1,5 @@
 # Windows
-Aqui vamos colocar alguns scripts uteis para qualquer profissional de suporte.
+Aqui vamos colocar alguns scripts uteis para profissionais de suporte.
 
 A idéia é suprir a necessidade dos profissionais de suporte apenas com aplicativos nativos do Windows, tentando evitar a instalação de uma gama de aplicativos de instalação "suja" e de contratos de licença "duvidosos".
 
